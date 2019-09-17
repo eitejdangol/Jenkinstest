@@ -1,1 +1,3 @@
-Write-Host “Followed by hello world or whatever you’d like the script to say”
+param($variabletest)
+
+Write-Host "Hello World ! This is my $variabletest!"
